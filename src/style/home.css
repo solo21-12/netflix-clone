@@ -1,0 +1,115 @@
+a{
+  text-decoration: none;
+  
+}
+.homePage {
+  background-image: url("../components/images/ET-en-20221003-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+  height: 900px;
+  background-color: #000;
+  /* background: rgba(0,0,0,.4) */
+}
+.serach_button {
+  text-align: center;
+  padding-top: 0.85rem;
+  flex-direction: column;
+  max-width: 100%;
+}
+
+.promotion-text-search p {
+  font-weight: 400;
+  margin: 0 auto;
+  min-width: 450px;
+  font-size: 18px;
+  padding: 0 5%;
+  font-family: "Times New Roman", Times, serif;
+}
+.nfinput {
+  margin: 2% auto;
+  /* margin-top: 2%; */
+  max-width: 960px;
+}
+.nfinput input {
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  height: 60px !important;
+  min-width: 450px;
+}
+.signIn {
+  text-decoration: none !important ;
+  color: #fff;
+}
+.signIn:hover {
+  color: #fff;
+}
+.promote-text h1 {
+  font-weight: bold;
+  font-size: 3.125rem;
+  padding-top: 250px;
+}
+.promote-text {
+  max-width: 640px;
+  margin: 0 auto;
+  font-family: Netflix Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.promote-text p {
+  font-size: 1.625rem;
+  margin: 1rem auto;
+  font-weight: 400;
+}
+
+.image-gradient::before {
+  background-image: linear-gradient(180deg, #000 25%, transparent);
+  content: "";
+  height: 70px;
+  position: absolute;
+  width: 100%;
+}
+body{
+  background-color: gray !important;
+}
+
+
+.second-wrapper{
+  padding-top: 10rem;
+  color: #fff;
+  margin: 0 0 0.4em;
+  text-align: center;
+}
+.second-wrapper.row div h1{
+  font-size: 1.625rem;
+  line-height: 1.1;
+}
+.second-wrapper.row div h3{
+  font-size: 1.125rem;
+  line-height: 1.1;
+}
+.footer-wrapper{
+  padding: 5%;
+  max-width: 90%;
+  margin: 0.5% auto !important;
+}
+.footer-ul li a{
+  text-decoration: none !important; 
+  color: gray;
+  font-size: small;
+}
+.footer-ul li:hover{
+  text-decoration:underline;
+}
+.footer-ul{
+  list-style: none;
+
+}
+.footer-ul li{
+  margin-bottom: 5%;
+
+}
+.footer-wrapper p a{
+  text-decoration: none;
+}
+.footer-wrapper p:hover{
+  text-decoration: underline;
+}
+.bg-dark-1{
+  background-color: black;
+}

@@ -1,0 +1,16 @@
+.nav-wrapper{
+  object-fit: contain;
+}
+.nav-wrapper img{
+  max-width: 100px;
+}
+.avator{
+  object-fit: contain;
+}
+.avator img{
+  max-width: 48px;
+}
+.nav_black{
+  background-color: black;
+  transition: 450ms;
+}

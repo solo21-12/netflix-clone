@@ -1,0 +1,61 @@
+body{
+  background-image: url("../components/images/ET-en-20221003-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+
+}
+.form-color{
+  /* background: transparent; */
+  background-color: rgba(0,0,0,.75);
+
+}
+.form{
+  max-width: 450px;
+  min-height: 660px;
+  padding: 60px 68px 40px;
+  margin: 5rem auto;
+}
+.input input{
+  background-color: #333;
+  height: 50px !important;
+}
+.button{
+  width: 100% !important;
+}
+.btn-danger{
+  background-color: #e50914  !important;
+}
+.px{
+  padding-left: 50% !important;
+  margin-top: 2rem;
+}
+.google:hover{
+  background-color: #e50914;
+}
+.fb:hover{
+  background-color: #0589ff;
+}
+.git:hover{
+  background-color: #000;
+}
+.ui li{
+  text-decoration: none;
+  list-style:none;
+  color: #757575;
+}
+.ui{
+  margin-right: 10rem;
+}
+.footer_wrapper{
+  margin: 0 auto;
+  /* padding-left: 15rem; */
+  width: 75%;
+}
+.signUp{
+font-size: 16px;
+}
+.recapatch{
+  font-size:13px;
+
+
+}
