@@ -6,7 +6,7 @@ img{
 .banner{
   object-fit: contain;
   background-size:cover;
-  background-position:center center;
+  background-position:top;
   background-repeat: no-repeat;
   /* padding: 25px; */
   color: #fff;
